@@ -88,7 +88,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/nabinhamal/katajane.git
-cd uber
+cd katajane
 ```
 
 **Installation**
@@ -111,7 +111,7 @@ EXPO_PUBLIC_DIRECTIONS_API_KEY=
 
 DATABASE_URL=
 
-EXPO_PUBLIC_SERVER_URL=https://uber.dev/
+EXPO_PUBLIC_SERVER_URL=https://katajane.dev/
 
 EXPO_PUBLIC_GEOAPIFY_API_KEY=
 
