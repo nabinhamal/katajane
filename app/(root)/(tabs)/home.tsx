@@ -14,14 +14,12 @@ import {
 import { SafeAreaView } from "react-native-safe-area-context";
 
 import GoogleTextInput from "@/components/GoogleTextInput";
-
+import Map from "@/components/Map";
 import RideCard from "@/components/RideCard";
 import { icons, images } from "@/constants";
 import { useFetch } from "@/lib/fetch";
-
-import { Ride } from "@/types/type";
-import Map from "../../../components/Map";
 import { useLocationStore } from "@/store";
+import { Ride } from "@/types/type";
 
 const Home = () => {
   const { user } = useUser();
