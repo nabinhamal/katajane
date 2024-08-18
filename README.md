@@ -25,10 +25,7 @@ handling payments, serverless Postgres for managing databases, and styled with T
 mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
 skills in a unique manner that creates a lasting impact.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -134,10 +131,6 @@ npx expo start
 ```
 
 Download the [Expo Go](https://expo.dev/go) app and Scan the QR code on your respective device to view the project.
-
-## <a name="snippets">🕸️ Snippets</a>
-
-Here are some code snippets from the project to help you get started quickly.
 
 ## <a name="links">🔗 Links</a>
 
